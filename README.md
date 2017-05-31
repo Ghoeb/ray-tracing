@@ -33,5 +33,7 @@ and run the program with
 where 
 
 `<scene>` is the scene file. Sample scenes can be found at the scenes folder
+
 `<antialiasing factor>` if given a number n it wil cast n^2 rays per pixel
+
 `[-f]` forces flat faces on all meshes
